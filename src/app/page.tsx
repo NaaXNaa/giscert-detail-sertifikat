@@ -92,86 +92,100 @@ export default function Page() {
 
           {/* Table */}
           <div className="rounded-lg overflow-x-auto">
-            <table className="w-full text-xs md:text-sm">
+            <table className="w-full text-xs md:text-sm border-collapse">
               <tbody>
                 <tr className="border-b border-gray-300">
-                  <td className="font-semibold w-1/3 p-2">Factory Name</td>
-                  <td className="p-2">: CV. NUGRAHA BETON INDONESIA</td>
+                  <td className="font-semibold w-40 p-2">Factory Name</td>
+                  <td className="font-semibold p-2 w-2">:</td>
+                  <td className="p-2">CV. NUGRAHA BETON INDONESIA</td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">Factory Address</td>
+                  <td className="font-semibold p-2">:</td>
                   <td className="p-2">
-                    : Jl. Raya Menganti Sidowungu No. 30, Desa/Kelurahan
-                    Sidowungu, Kec. Menganti, Kab. Gresik, Provinsi Jawa Timur
+                    Jl. Raya Menganti Sidowungu No. 30, Desa/Kelurahan Sidowungu,  
+                    Kec. Menganti, Kab. Gresik, Provinsi Jawa Timur
                   </td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">Company Name</td>
-                  <td className="p-2">: CV. NUGRAHA BETON INDONESIA</td>
+                  <td className="font-semibold p-2">:</td>
+                  <td className="p-2">CV. NUGRAHA BETON INDONESIA</td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">Company Address</td>
+                  <td className="font-semibold p-2">:</td>
                   <td className="p-2">
-                    : Jl. Raya Menganti Sidowungu No. 30, Desa/Kelurahan
-                    Sidowungu, Kec. Menganti, Kab. Gresik, Provinsi Jawa Timur
+                    Jl. Raya Menganti Sidowungu No. 30, Desa/Kelurahan Sidowungu,  
+                    Kec. Menganti, Kab. Gresik, Provinsi Jawa Timur
                   </td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">PIC</td>
-                  <td className="p-2">: ANDI NUGRAHA SAPUTRA</td>
+                  <td className="font-semibold p-2">:</td>
+                  <td className="p-2">ANDI NUGRAHA SAPUTRA</td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">SNI Number</td>
-                  <td className="p-2">: SNI 6880 : 2016</td>
+                  <td className="font-semibold p-2">:</td>
+                  <td className="p-2">SNI 6880 : 2016</td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">Brand</td>
-                  <td className="p-2">: Nugraha Beton</td>
+                  <td className="font-semibold p-2">:</td>
+                  <td className="p-2">Nugraha Beton</td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">Type</td>
-                  <td className="p-2">: top buttom, uditch, paving</td>
+                  <td className="font-semibold p-2">:</td>
+                  <td className="p-2">top buttom, uditch, paving</td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">Result Of Test</td>
+                  <td className="font-semibold p-2">:</td>
                   <td className="p-2">
-                    : Laporan Laboratorium Struktur Departemen Teknik sipil
-                    FTSPK-ITS, CV. Nugraha Beton Indonesia, 03 September 2024
-                    (Uji Tekan Beton Core Drill )
+                    Laporan Laboratorium Struktur Departemen Teknik sipil FTSPK-ITS,  
+                    CV. Nugraha Beton Indonesia, 03 September 2024 (Uji Tekan Beton Core Drill)
                   </td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">Status</td>
-                  <td className="p-2">: Valid</td>
+                  <td className="font-semibold p-2">:</td>
+                  <td className="p-2">Valid</td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">Surveillance 1</td>
-                  <td className="p-2">: 12 September 2025</td>
+                  <td className="font-semibold p-2">:</td>
+                  <td className="p-2">12 September 2025</td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">Surveillance 2</td>
-                  <td className="p-2">: 12 September 2026</td>
+                  <td className="font-semibold p-2">:</td>
+                  <td className="p-2">12 September 2026</td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">Surveillance 3</td>
-                  <td className="p-2">: 12 September 2027</td>
+                  <td className="font-semibold p-2">:</td>
+                  <td className="p-2">12 September 2027</td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">Re-Certificate</td>
-                  <td className="p-2">: 12 September 2028</td>
+                  <td className="font-semibold p-2">:</td>
+                  <td className="p-2">12 September 2028</td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">Certificate Date</td>
-                  <td className="p-2">: 13 September 2024</td>
+                  <td className="font-semibold p-2">:</td>
+                  <td className="p-2">13 September 2024</td>
                 </tr>
                 <tr>
                   <td className="font-semibold p-2">Expired Date</td>
-                  <td className="p-2">: 12 September 2028</td>
+                  <td className="font-semibold p-2">:</td>
+                  <td className="p-2">12 September 2028</td>
                 </tr>
               </tbody>
             </table>
           </div>
-
           {/* Back Button */}
           <div className="mt-6">
             <button className="bg-[#a71814] text-white text-xs px-3 py-2 font-semibold flex items-center space-x-2 hover:bg-red-700 transition">
