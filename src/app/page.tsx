@@ -92,7 +92,7 @@ export default function Page() {
 
           {/* Table */}
           <div className="rounded-lg overflow-x-auto">
-            <table className="w-full text-xs md:text-sm border-collapse">
+            <table className="w-235 text-xs md:text-sm border-collapse">
               <tbody>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold w-40 p-2">Factory Name</td>
