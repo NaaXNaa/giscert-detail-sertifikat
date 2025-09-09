@@ -79,7 +79,7 @@ export default function Page() {
 
       {/* Section Detail */}
       <section className="bg-white pt-10 pb-10 md:pt-30 md:pb-30">
-        <div className="max-w-5xl mx-auto px-4 md:px-6">
+        <div className="max-w-5xl mx-auto text-black px-4 md:px-6">
           {/* Title */}
           <div className="text-center mb-8">
             <h1 className="text-2xl md:text-4xl font-bold pb-3 md:pb-5">
