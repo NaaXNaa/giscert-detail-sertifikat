@@ -145,7 +145,7 @@ export default function Page() {
                   <td className="font-semibold p-2">:</td>
                   <td className="p-2">
                     Laporan Laboratorium Struktur Departemen Teknik sipil FTSPK-ITS,  
-                    CV. Nugraha Beton Indonesia, 03 September 2024 (Uji Tekan Beton Core Drill)
+                    CV. Nugraha Beton Indonesia, 03 September 2024 ( Uji Tekan Beton Core Drill )
                   </td>
                 </tr>
                 <tr className="border-b border-gray-300">
