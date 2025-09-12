@@ -123,7 +123,7 @@ export default function Page() {
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">PIC</td>
                   <td className="font-semibold p-2">:</td>
-                  <td className="p-2">Muhammad Andi Nugraha Saputra</td>
+                  <td className="p-2">Mohammad Andi Nugraha Saputra</td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">SNI Number</td>
