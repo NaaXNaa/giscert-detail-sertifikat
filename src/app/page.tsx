@@ -123,7 +123,7 @@ export default function Page() {
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">PIC</td>
                   <td className="font-semibold p-2">:</td>
-                  <td className="p-2">ANDI NUGRAHA SAPUTRA</td>
+                  <td className="p-2">Muhammad Andi Nugraha Saputra</td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">SNI Number</td>
@@ -133,19 +133,18 @@ export default function Page() {
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">Brand</td>
                   <td className="font-semibold p-2">:</td>
-                  <td className="p-2">Nugraha Beton</td>
+                  <td className="p-2">NBI</td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">Type</td>
                   <td className="font-semibold p-2">:</td>
-                  <td className="p-2">top buttom, uditch, paving</td>
+                  <td className="p-2">Uditch, Box Culvert, TOP Bottom, RCBC, L-Gutter, LPC, paving block</td>
                 </tr>
                 <tr className="border-b border-gray-300">
                   <td className="font-semibold p-2">Result Of Test</td>
                   <td className="font-semibold p-2">:</td>
                   <td className="p-2">
-                    Laporan Laboratorium Struktur Departemen Teknik sipil FTSPK-ITS,  
-                    CV. Nugraha Beton Indonesia, 03 September 2024 ( Uji Tekan Beton Core Drill )
+                    Laporan Laboratorium Struktur Departemen Teknik sipil FTSPK-ITS, CV. Nugraha Beton Indonesia, 03 September 2024 (Uji Tekan Beton Core Drill )
                   </td>
                 </tr>
                 <tr className="border-b border-gray-300">
